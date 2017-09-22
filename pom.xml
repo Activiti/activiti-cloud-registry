@@ -21,7 +21,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.activiti.cloud</groupId>
   <artifactId>activiti-cloud-registry</artifactId>
-  <version>7-201708HOTFIX-EA</version>
+  <version>7-201709-EA-SNAPSHOT</version>
 
   <name>Activiti Cloud :: Registry</name>
   <properties>
@@ -216,7 +216,7 @@
     <url>https://github.com/Activiti/activiti-cloud-registry</url>
     <connection>scm:git:https://github.com/Activiti/activiti-cloud-registry.git</connection>
     <developerConnection>scm:git:https://github.com/Activiti/activiti-cloud-registry.git</developerConnection>
-    <tag>activiti-7-201708HOTFIX-EA</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
