@@ -22,7 +22,7 @@
   <groupId>org.activiti.cloud</groupId>
   <artifactId>activiti-cloud-registry</artifactId>
   <version>7-201711-EA-SNAPSHOT</version>
-
+ 
   <name>Activiti Cloud :: Registry</name>
   <properties>
     <!-- Spring Boot / Cloud deps -->
