@@ -26,8 +26,8 @@
   <name>Activiti Cloud :: Registry</name>
   <properties>
     <!-- Spring Boot / Cloud deps -->
-    <spring.boot.version>2.0.0.M6</spring.boot.version>
-    <spring.cloud.version>Finchley.M4</spring.cloud.version>
+    <spring.boot.version>2.0.0.M7</spring.boot.version>
+    <spring.cloud.version>Finchley.M5</spring.cloud.version>
 
     <docker.maven.plugin.version>0.21.0</docker.maven.plugin.version>
     <jgitflow.plugin.version>1.0-m5.1</jgitflow.plugin.version>
