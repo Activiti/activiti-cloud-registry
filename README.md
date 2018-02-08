@@ -6,5 +6,7 @@
 [![CLA](https://cla-assistant.io/readme/badge/Activiti/activiti-cloud-registry)](https://cla-assistant.io/Activiti/activiti-cloud-registry)
 [![Docker Build Status](https://img.shields.io/docker/build/activiti/activiti-cloud-registry.svg)](https://hub.docker.com/r/activiti/activiti-cloud-registry)
 [![Known Vulnerabilities](https://snyk.io/test/github/Activiti/activiti-cloud-registry/badge.svg)](https://snyk.io/test/github/Activiti/activiti-cloud-registry)
+[![security status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-registry/security)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-registry)
+[![stability status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-registry/stability)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-registry)
 
 Activiti Cloud Registry
