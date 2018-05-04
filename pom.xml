@@ -20,7 +20,7 @@
   <dependencies>
     <dependency>
       <groupId>org.activiti.cloud</groupId>
-      <artifactId>activiti-cloud-application-service</artifactId>
+      <artifactId>activiti-cloud-app-service</artifactId>
       <!--NEED TO REMOVE THIS BY ADDING TO ACTIVITI-CLOUD-BUILD -->
       <version>7-201803-EA-SNAPSHOT</version>
     </dependency>
